@@ -1,0 +1,18 @@
+.nav {
+    background-color: seashell;
+    border-top: 1.5px ridge black;
+    border-bottom: 1.5px ridge black;
+}
+
+.imglogo {
+    width: 35px;
+    border: 1px solid black
+}
+
+.lnk {
+    color: black
+}
+
+.lnk:hover {
+    color: green
+}

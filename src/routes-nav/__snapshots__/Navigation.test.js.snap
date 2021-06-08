@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <nav
+    class="Navigation navbar navbar-expand-md nav"
+  >
+    <a
+      class="navbar-brand nav-link"
+      href="/"
+    >
+      <img
+        class="imglogo"
+        src="crypticlogo.jpeg"
+      />
+    </a>
+    <ul
+      class="navbar-nav ml-auto"
+    >
+      <li
+        class="nav-item mr-4"
+      >
+        <a
+          class="nav-link lnk"
+          href="/watchlist"
+        >
+          Watchlist
+        </a>
+      </li>
+      <li
+        class="nav-item mr-4"
+      >
+        <a
+          class="nav-link lnk"
+          href="/profile"
+        >
+          Profile
+        </a>
+      </li>
+      <li
+        class="nav-item"
+      >
+        <a
+          class="nav-link lnk"
+          href="/"
+        >
+          Log Out (testuser)
+        </a>
+      </li>
+    </ul>
+  </nav>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot when logged out 1`] = `
+<DocumentFragment>
+  <nav
+    class="Navigation navbar navbar-expand-md nav"
+  >
+    <a
+      class="navbar-brand nav-link"
+      href="/"
+    >
+      <img
+        class="imglogo"
+        src="crypticlogo.jpeg"
+      />
+    </a>
+    <ul
+      class="navbar-nav ml-auto"
+    >
+      <li
+        class="nav-item mr-4"
+      >
+        <a
+          class="nav-link lnk"
+          href="/login"
+        >
+          Log In
+        </a>
+      </li>
+      <li
+        class="nav-item mr-4"
+      >
+        <a
+          class="nav-link lnk"
+          href="/signup"
+        >
+          Sign Up
+        </a>
+      </li>
+    </ul>
+  </nav>
+</DocumentFragment>
+`;

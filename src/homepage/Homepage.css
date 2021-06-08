@@ -1,0 +1,19 @@
+.homepage {
+    background-color: rgb(81, 118, 230);
+}
+
+.logo {
+    color: seashell;
+    font-size: 75px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 1.5em;
+}
+
+.description {
+    font-size: 1.75em;
+    padding-bottom: 1.25em;
+}
+
+.linkbtn {
+    margin-left: 15px;
+}

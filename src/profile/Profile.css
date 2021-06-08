@@ -1,0 +1,11 @@
+.account {
+    text-align: center;
+    border: seashell 5px solid;
+    margin: 50px;
+    color: seashell;
+    padding: 50px;
+}
+
+.details {
+    margin: 30px
+}
