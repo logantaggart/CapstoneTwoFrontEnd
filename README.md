@@ -1,7 +1,7 @@
 Cryptic <br />
 
 Application Deployment
-[Link To Deployed Application](http://half-side.surge.sh/) <br /> <br />
+[Link To Deployed Application](http://half-side.surge.sh/) (Not Supported In Safari)<br /> <br />
 -Deployed Frontend using Surge <br />
 -Deployed Backend using Heroku <br /> <br />
 
